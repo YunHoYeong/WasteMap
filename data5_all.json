@@ -1,1 +1,161 @@
-{ "nodes" : [ { "name":"수도권","n":5,"grp":1,"id":"1"},{ "name":"강원권","n":5,"grp":2,"id":"2"},{ "name":"충청권","n":5,"grp":3,"id":"3"},{ "name":"영남권","n":5,"grp":4,"id":"4"},{ "name":"호남권","n":5,"grp":5,"id":"5"}],"links": [{ "source":"1","target":"1","value":51620799},{ "source":"1","target":"2","value":1208976},{ "source":"1","target":"3","value":4953007},{ "source":"1","target":"4","value":1023079},{ "source":"1","target":"5","value":844901}{ "source":"2","target":"1","value":228539},{ "source":"2","target":"2","value":6605427},{ "source":"2","target":"3","value":800609},{ "source":"2","target":"4","value":199261},{ "source":"2","target":"5","value":27270}{ "source":"3","target":"1","value":1463721},{ "source":"3","target":"2","value":383035},{ "source":"3","target":"3","value":17927195},{ "source":"3","target":"4","value":764309},{ "source":"3","target":"5","value":911781}{ "source":"4","target":"1","value":188627},{ "source":"4","target":"2","value":1058125},{ "source":"4","target":"3","value":1533009},{ "source":"4","target":"4","value":38101455},{ "source":"4","target":"5","value":2396278}{ "source":"5","target":"1","value":149531},{ "source":"5","target":"2","value":22880},{ "source":"5","target":"3","value":1000403},{ "source":"5","target":"4","value":907013},{ "source":"5","target":"5","value":21761587}], "attributes":{}}
+{
+    "nodes": [
+    {
+        "name": "a",
+        "n": 5,
+        "grp": 1,
+        "id": "1"
+    },
+    {
+        "name": "b",
+        "n": 5,
+        "grp": 2,
+        "id": "2"
+    },
+    {
+        "name": "c",
+        "n": 5,
+        "grp": 3,
+        "id": "3"
+    },
+    {
+        "name": "d",
+        "n": 5,
+        "grp": 4,
+        "id": "4"
+    },
+    {
+        "name": "e",
+        "n": 5,
+        "grp": 5,
+        "id": "5"
+    }],
+    "links": [
+    {
+        "source": "1",
+        "target": "1",
+        "value": 51620799
+    },
+    {
+        "source": "1",
+        "target": "2",
+        "value": 1208976
+    },
+    {
+        "source": "1",
+        "target": "3",
+        "value": 4953007
+    },
+    {
+        "source": "1",
+        "target": "4",
+        "value": 1023079
+    },
+    {
+        "source": "1",
+        "target": "5",
+        "value": 844901
+    }
+    {
+        "source": "2",
+        "target": "1",
+        "value": 228539
+    },
+    {
+        "source": "2",
+        "target": "2",
+        "value": 6605427
+    },
+    {
+        "source": "2",
+        "target": "3",
+        "value": 800609
+    },
+    {
+        "source": "2",
+        "target": "4",
+        "value": 199261
+    },
+    {
+        "source": "2",
+        "target": "5",
+        "value": 27270
+    }
+    {
+        "source": "3",
+        "target": "1",
+        "value": 1463721
+    },
+    {
+        "source": "3",
+        "target": "2",
+        "value": 383035
+    },
+    {
+        "source": "3",
+        "target": "3",
+        "value": 17927195
+    },
+    {
+        "source": "3",
+        "target": "4",
+        "value": 764309
+    },
+    {
+        "source": "3",
+        "target": "5",
+        "value": 911781
+    }
+    {
+        "source": "4",
+        "target": "1",
+        "value": 188627
+    },
+    {
+        "source": "4",
+        "target": "2",
+        "value": 1058125
+    },
+    {
+        "source": "4",
+        "target": "3",
+        "value": 1533009
+    },
+    {
+        "source": "4",
+        "target": "4",
+        "value": 38101455
+    },
+    {
+        "source": "4",
+        "target": "5",
+        "value": 2396278
+    }
+    {
+        "source": "5",
+        "target": "1",
+        "value": 149531
+    },
+    {
+        "source": "5",
+        "target": "2",
+        "value": 22880
+    },
+    {
+        "source": "5",
+        "target": "3",
+        "value": 1000403
+    },
+    {
+        "source": "5",
+        "target": "4",
+        "value": 907013
+    },
+    {
+        "source": "5",
+        "target": "5",
+        "value": 21761587
+    }],
+    "attributes":
+    {}
+}
